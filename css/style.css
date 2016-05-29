@@ -90,16 +90,14 @@ section {
     margin: 20px 0;
     text-align: left; }
   .page-section__introduction .btn {
-    margin: 50px 0; }
-  .page-section__introduction .social-links {
-    margin-top: 40px; }
-    .page-section__introduction .social-links a {
-      font-size: 50px;
-      margin: 0 30px;
-      display: inline-block;
-      border-bottom: none; }
-      .page-section__introduction .social-links a:hover {
-        color: #000; }
+    margin: 60px 0; }
+  .page-section__introduction .social-links a {
+    font-size: 50px;
+    margin: 0 30px;
+    display: inline-block;
+    border-bottom: none; }
+    .page-section__introduction .social-links a:hover {
+      color: #000; }
 
 .page-section__book {
   padding: 60px 0;
