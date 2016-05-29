@@ -1,0 +1,65 @@
+.page-section__introduction {
+  padding: 60px 0;
+  text-align: center;
+
+  .clip-shape {
+    -webkit-clip-path: circle(50% at 50% 50%);
+    clip-path: circle(50% at 50% 50%);
+  }
+
+  .photo {
+    width: 300px;
+    max-width: 500px;
+    margin: 70px 0 60px 0;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 40px;
+    line-height: 60px;
+    text-shadow: 1px 1px 0px #fefefe;
+  }
+
+  h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+    line-height: 40px;
+    font-style: italic;
+    text-shadow: 1px 1px 0px #fefefe;
+  }
+
+  .title-icon {
+    text-align: r
+  }
+
+  .book-formats-available {
+    display: block;
+    color: #777;
+    margin-top: 30px;
+  }
+
+  p {
+    margin: 20px 0;
+    text-align: left;
+  }
+
+  .btn {
+    margin-top: 50px;
+  }
+
+  .social-links {
+    margin-top: 40px;
+
+    a {
+      font-size: 50px;
+      margin: 0 30px;
+      display: inline-block;
+      border-bottom: none;
+
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+}

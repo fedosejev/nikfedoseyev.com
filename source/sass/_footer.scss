@@ -1,0 +1,29 @@
+.page-section__footer {
+  padding: 60px 0;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  font-size: 30px;
+
+  h5 {
+    color: #eee;
+    text-shadow: 1px 1px 0 #000;
+    font-weight: normal;
+    margin-top: 20px;
+  }
+
+  .social-links a {
+    color: #ccc;
+    font-size: 2em;
+    margin: 15px 30px;
+    display: inline-block;
+    text-shadow: 1px 1px 0 #000;
+    border-bottom: none;
+
+    &:hover {
+      color: #fff;
+      text-shadow: 5px 5px 0px #000;
+    }
+  }
+}

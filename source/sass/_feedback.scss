@@ -1,0 +1,34 @@
+.page-section__customer-feedback {
+  padding: 60px 0;
+  text-align: center;
+
+  .customer-quote {
+    font-weight: normal;
+    font-size: 22px;
+    margin: 70px 0;
+
+    &:last-of-type {
+      margin-bottom: 20px;
+    }
+
+    span {
+      font-family: 'Bitter';
+      line-height: 10px;
+      font-weight: normal;
+      padding: 0 5px;
+      color: #999;
+    }
+
+    iframe {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .customer-quote-source {
+      display: block;
+      margin: 20px 0 0 0;
+      line-height: 40px;
+      font-size: 25px;
+    }
+  }
+}

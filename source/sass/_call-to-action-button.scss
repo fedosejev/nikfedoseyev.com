@@ -1,0 +1,25 @@
+.btn {
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.8em 1.2em;
+  font-size: 1.1em;
+  font-family: 'Bitter', serif;
+  appearance: none;
+  box-shadow: none;
+  color: #fff;
+  text-shadow: -1px 1px #555;
+  border: none;
+  border-radius: 10px;
+
+  &:focus {
+    outline: none;
+  }
+
+  &:hover {
+    text-shadow: -1px 1px #333;
+  }
+
+  &:active {
+    text-shadow: -1px 1px #333;
+  }
+}

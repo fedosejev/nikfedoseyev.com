@@ -1,2 +1,1 @@
-# nikfedoseyev.com
-Website source code.
+# Website source code.
